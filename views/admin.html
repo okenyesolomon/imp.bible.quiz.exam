@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Portal</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <style>
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.5);
+        }
+        .modal-content {
+            background-color: #fefefe;
+            margin: 10% auto;
+            padding: 20px;
+            border-radius: 8px;
+            width: 80%;
+            max-width: 500px;
+        }
+        .close-modal {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        .question-item {
+            background-color: #f9f9f9;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+        }
+        .question-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container admin-container">
+        <header>
+            <h1>Admin Portal</h1>
+            <nav>
+                <button id="view-results" class="active">View Results</button>
+                <button id="manage-questions">Manage Questions</button>
+                <button id="change-password-btn">Change Password</button>
+                <a href="/results" class="btn logout-btn" style="background-color: green;">Manage Results</a>
+                <a href="/admin/logout" class="btn logout-btn">Logout</a>
+            </nav>
+        </header>
+        
+        <main>
+            <div id="results-section">
+                <h2>Student Results</h2>
+                <div class="search-box">
+                    <input type="text" id="search-students" placeholder="Search students...">
+                </div>
+                <div class="table-container">
+                    <table id="students-table">
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>Gender</th>
+                                <th>Zone</th>
+                                <th>Parish</th>
+                                <th>Age Group</th>
+                                <th>Score</th>
+                                <th>Date</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <% if (students && students.length > 0) { %>
+                                <% students.forEach(student => { %>
+                                    <tr>
+                                        <td><%= student.fullName %></td>
+                                        <td><%= student.gender %></td>
+                                        <td><%= student.zone %></td>
+                                        <td><%= student.parish %></td>
+                                        <td><%= student.ageGroup %></td>
+                                        <td><%= student.score %>/<%= student.totalQuestions %></td>
+                                        <td><%= new Date(student.date).toLocaleDateString() %></td>
+                                    </tr>
+                                <% }); %>
+                            <% } else { %>
+                                <tr>
+                                    <td colspan="7" style="text-align: center;">No student records found</td>
+                                </tr>
+                            <% } %>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            
+            <div id="questions-section" style="display: none;">
+                <div class="age-group-selector">
+                    <button class="age-group-btn active" data-age-group="9-12">9-12 Years</button>
+                     <button class="age-group-btn" data-age-group="13-15">13-15 Years</button>
+                    <button class="age-group-btn" data-age-group="16-19">16-19 Years</button>
+                </div>
+                
+                <div id="questions-management">
+                    <div class="questions-list" id="questions-list-9-12">
+                        <h3>Questions for 9-12 Years</h3>
+                        <div id="questions-container-9-12">
+                            <p>Loading questions...</p>
+                        </div>
+                        <button id="add-question-9-12" class="btn">Add Question</button>
+                        <button id="save-questions-9-12" class="btn save-btn">Save Questions</button>
+                    </div>
+
+                    <div class="questions-list" id="questions-list-13-15">
+                        <h3>Questions for 13-15 Years</h3>
+                        <div id="questions-container-13-15">
+                            <p>Loading questions...</p>
+                        </div>
+                        <button id="add-question-13-15" class="btn">Add Question</button>
+                        <button id="save-questions-13-15" class="btn save-btn">Save Questions</button>
+                    </div>
+                    
+                    <div class="questions-list" id="questions-list-16-19" style="display: none;">
+                        <h3>Questions for 16-19 Years</h3>
+                        <div id="questions-container-16-19">
+                            <p>Loading questions...</p>
+                        </div>
+                        <button id="add-question-16-19" class="btn">Add Question</button>
+                        <button id="save-questions-16-19" class="btn save-btn">Save Questions</button>
+                    </div>
+                </div>
+            </div>
+        </main>
+        
+        <!-- Password Change Modal -->
+        <div id="password-modal" class="modal">
+            <div class="modal-content">
+                <span class="close-modal">&times;</span>
+                <h2>Change Admin Password</h2>
+                <form id="change-password-form">
+                    <div class="form-group">
+                        <label for="current-password">Current Password:</label>
+                        <input type="password" id="current-password" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="new-password">New Password:</label>
+                        <input type="password" id="new-password" required>
+                        <small>Password must be at least 8 characters long</small>
+                    </div>
+                    <div class="form-group">
+                        <label for="confirm-password">Confirm New Password:</label>
+                        <input type="password" id="confirm-password" required>
+                    </div>
+                    <button type="submit" class="btn">Change Password</button>
+                    <div id="password-change-message" style="margin-top: 15px;"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <script src="/js/admin.js"></script>
+</body>
+</html>

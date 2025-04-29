@@ -1,0 +1,403 @@
+[
+    {
+        "id": "1",
+        "type": "fillblank",
+        "question": "What is the memory verse for lesson 9? recite.",
+        "correctAnswer": "Jeremiah 29:11 for i know the thoughts that i think towards you, saith the lord, thoughts of peace, and not of evil, to give you an expected end. "
+    },
+    {
+        "id": "2",
+        "type": "fillblank",
+        "question": "According to lesson 8, What is vision? define according to the manual.",
+        "correctAnswer": "A picture of the future in the heart of a person"
+    },
+    {
+        "id": "3",
+        "type": "fillblank",
+        "question": "What is the topic and the bible passage for lesson 7?",
+        "correctAnswer": "The word of God John 17:16-19, John 1:1, Psalm 119:11"
+    },
+    {
+        "id": "4",
+        "type": "fillblank",
+        "question": "According to lesson 7, state 3 ways to apply the word of God to our lives.",
+        "correctAnswer": "Read it, Study it, Meditate on it day and night, Share it with others"
+    },
+    {
+        "id": "5",
+        "type": "fillblank",
+        "question": "According to lesson 10, what is goal setting?",
+        "correctAnswer": "Goal setting is about turning dreams into actionable plans that propel us towards success."
+    },
+    {
+        "id": "6",
+        "type": "fillblank",
+        "question": "In Lesson 10, SMART is an acronym for goal setting. Say the full meaning.",
+        "correctAnswer": "Specific, Measurable, Achievable, Relevant, Time "
+    },
+    {
+        "id": "7",
+        "type": "fillblank",
+        "question": "What is purposeful living? according to lesson 9.",
+        "correctAnswer": "means living with a clear sense of why you are here and what you are meant to do."
+    },
+    {
+        "id": "8",
+        "type": "fillblank",
+        "question": "Give four examples of people who lived purposefully according to our manual.",
+        "correctAnswer": "Jesus, Esther, Samuel, Ruth"
+    },
+    {
+        "id": "9",
+        "type": "fillblank",
+        "question": "Who is the Holy spirit?",
+        "correctAnswer": "The third in trinity and a comforter."
+    },
+    {
+        "id": "10",
+        "type": "fillblank",
+        "question": "Recite the memory verse for lesson 4 (2Cor 3:18)",
+        "correctAnswer": "But we all, with open face beholding as in a glass the glory of the lord are changed into the same image from glory to glory, even as by the spirit of the lord"
+    },
+    {
+        "id": "11",
+        "type": "fillblank",
+        "question": "Who is Jesus to believers?",
+        "correctAnswer": "He is our mediator"
+    },
+    {
+        "id": "12",
+        "type": "fillblank",
+        "question": "What is sanctification?",
+        "correctAnswer": ""
+    },
+    {
+        "id": "13",
+        "type": "fillblank",
+        "question": "What is the memory verse for lesson 2? recite",
+        "correctAnswer": "2 Timothy 2:21 if a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master's use, and prepared unto every good work."
+    },
+    {
+        "id": "14",
+        "type": "fillblank",
+        "question": "What is the topic for lesson 2? and the bible passage.",
+        "correctAnswer": "Sanctification (Leviticus 20:7-8)"
+    },
+    {
+        "id": "15",
+        "type": "fillblank",
+        "question": "What is salvation?",
+        "correctAnswer": ""
+    },
+    {
+        "id": "16",
+        "type": "fillblank",
+        "question": "What are the steps or progress of salvation?",
+        "correctAnswer": ""
+    },
+    {
+        "id": "17",
+        "type": "fillblank",
+        "question": "What is the memory verse for lesson 3? recite.",
+        "correctAnswer": "Ezek 12:7,8"
+    },
+    {
+        "id": "18",
+        "type": "fillblank",
+        "question": "What or who are we to obey? mention 3 according to the manual",
+        "correctAnswer": "God, Authority, our Parents"
+    },
+    {
+        "id": "19",
+        "type": "fillblank",
+        "question": "What is addiction?",
+        "correctAnswer": "Addiction is the condition of being unable to refrain from or halt in dependence on something, which has temporary gratification and eventually results into bondage."
+    },
+    {
+        "id": "20",
+        "type": "fillblank",
+        "question": "How to recite the memory verse for lesson 27.",
+        "correctAnswer": "Isaiah 59:2"
+    },
+    {
+        "id": "21",
+        "type": "fillblank",
+        "question": "The topic forgiveness is from what lesson?",
+        "correctAnswer": ""
+    },
+    {
+        "id": "22",
+        "type": "fillblank",
+        "question": "What is the topic for lesson 22?",
+        "correctAnswer": "Sexual purity"
+    },
+    {
+        "id": "23",
+        "type": "fillblank",
+        "question": "What is the topic for lesson 29?",
+        "correctAnswer": "Self-esteem/Dealing with addiction"
+    },
+    {
+        "id": "24",
+        "type": "fillblank",
+        "question": "Mention 3 ways to develop and improve self-esteem.",
+        "correctAnswer": "See yourself as God sees you, Positive thinking, Self-acceptance, Set realistic & bible goals, Have good positive social network, Challenge unhelpful opinions and self-critical ideas"
+    },
+    {
+        "id": "25",
+        "type": "fillblank",
+        "question": "What is selfless service?",
+        "correctAnswer": "Selfless service can be called dedication and commitment to something without expecting anything in return."
+    },
+    {
+        "id": "26",
+        "type": "fillblank",
+        "question": "For ye are bought with a price, therefore glorify God in your body, and in your spirit which are God's 1Cor 6:20. The memory verse is for what lesson and what is the topic?",
+        "correctAnswer": "Sin"
+    },
+    {
+        "id": "27",
+        "type": "fillblank",
+        "question": "What is the topic for lesson 22?",
+        "correctAnswer": "Sexual purity"
+    },
+    {
+        "id": "28",
+        "type": "fillblank",
+        "question": "Recite the memory verse. Who are you according to lesson 21?",
+        "correctAnswer": "You are created in the image of God. A priest. A chosen Generation..."
+    },
+    {
+        "id": "29",
+        "type": "fillblank",
+        "question": "Recite the memory verse for lesson 20. Sin",
+        "correctAnswer": ""
+    },
+    {
+        "id": "30",
+        "type": "fillblank",
+        "question": "What is sin?",
+        "correctAnswer": "Sin is anything that harms the relationship we have with God and for another person."
+    },
+    {
+        "id": "31",
+        "type": "fillblank",
+        "question": "What are the consequences of sin?",
+        "correctAnswer": "Death, Separation from God, displeasing God, destruction..."
+    },
+    {
+        "id": "32",
+        "type": "fillblank",
+        "question": "What is the topic for lesson 18?",
+        "correctAnswer": "Home Training"
+    },
+    {
+        "id": "33",
+        "type": "fillblank",
+        "question": "Mention 4 steps in making a career choice.",
+        "correctAnswer": "Seek the face of God, Know yourself (talents, skills), Seek guidance of counselling, Get knowledge and make research, Create solutions, make plans and goals, Assess your interests, skills, values, Take action and try options, Talk to people in those fields of study you are choosing."
+    },
+    {
+        "id": "34",
+        "type": "fillblank",
+        "question": "What is a career?",
+        "correctAnswer": "Career simply means one's calling in life or a person's profession or occupation."
+    },
+    {
+        "id": "35",
+        "type": "fillblank",
+        "question": "There are four types of career paths. Name them.",
+        "correctAnswer": "Knowledge-based, Skill-based, Entrepreneur-based, Free lance"
+    },
+    {
+        "id": "36",
+        "type": "fillblank",
+        "question": "Recite the memory verse for lesson 16 Excellence in life",
+        "correctAnswer": "Daniel 1:19-20"
+    },
+    {
+        "id": "37",
+        "type": "multiple",
+        "question": "Choose which is not correct in the options. Why should we be excellent?",
+        "correctAnswer": "3",
+        "options": [
+            "To please God",
+            "To fulfill our purpose",
+            "To be good examples",
+            "To impress your equals"
+        ]
+    },
+    {
+        "id": "38",
+        "type": "fillblank",
+        "question": "Choose the correct verse for this memory verse: 'And whatsoever ye do, do it heartily as to the Lord, and not unto men.'",
+        "correctAnswer": ""
+    },
+    {
+        "id": "39",
+        "type": "multiple",
+        "question": "Which of these is correct of the topic for lesson 14?",
+        "correctAnswer": "2",
+        "options": [
+            "A clean heart",
+            "A perfect heart",
+            "A pure heart",
+            "A holy heart"
+        ]
+    },
+    {
+        "id": "40",
+        "type": "fillblank",
+        "question": "According to lesson 11 Recite the memory verse says it is impossible to please God complete it.",
+        "correctAnswer": "Heb. 11:6"
+    },
+    {
+        "id": "41",
+        "type": "multiple",
+        "question": "Be happy always is one of ways to maintain good success.",
+        "correctAnswer": "1",
+        "options": [
+            "Achieve success",
+            "Maintain good success",
+            "Find success",
+            "Create success"
+        ]
+    },
+    {
+        "id": "42",
+        "type": "multiple",
+        "question": "For ye are bought with a price. Therefore glorify God in your body, and in your spirit which are God's. 1Cor 6:20 This memory verse is for which topic?",
+        "correctAnswer": "2",
+        "options": [
+            "Salvation",
+            "Sanctification",
+            "Sexual purity",
+            "Obedience"
+        ]
+    },
+    {
+        "id": "43",
+        "type": "multiple",
+        "question": "Avoid destroying church property e.g. books, chairs, mishandling equipment is part of the way you can help __________",
+        "correctAnswer": "1",
+        "options": [
+            "Build the church",
+            "Maintain church finance",
+            "Grow the church",
+            "Support the church"
+        ]
+    },
+    {
+        "id": "44",
+        "type": "fillblank",
+        "question": "What is the topic for lesson 24?",
+        "correctAnswer": "Prayer"
+    },
+    {
+        "id": "45",
+        "type": "fillblank",
+        "question": "What is the memory verse for lesson 34?",
+        "correctAnswer": "Lk 18:1"
+    },
+    {
+        "id": "46",
+        "type": "fillblank",
+        "question": "State two roles of the Holy Spirit in sanctification",
+        "correctAnswer": "He makes us obedient, Reproves (convict) us of our sins, Lead us where we need to go, Fill us with power"
+    },
+    {
+        "id": "47",
+        "type": "fillblank",
+        "question": "Complete this with the right word: Where there is no vision, the people _____",
+        "correctAnswer": "Perish"
+    },
+    {
+        "id": "48",
+        "type": "fillblank",
+        "question": "Mention 2 ways we can apply the word of God to our lives.",
+        "correctAnswer": "Read it, Study it, Meditate on it, Share it with others"
+    },
+    {
+        "id": "49",
+        "type": "fillblank",
+        "question": "Complete this: Faith cometh by ______",
+        "correctAnswer": "hearing"
+    },
+    {
+        "id": "50",
+        "type": "fillblank",
+        "question": "Obedience is lesson ______",
+        "correctAnswer": "Lesson 30"
+    },
+
+  {
+    "id": "51",
+    "type": "truefalse",
+    "question": "David was the youngest son of Jesse.",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "52",
+    "type": "truefalse",
+    "question": "Jesus turned water into milk at the wedding in Cana.",
+    "correctAnswer": "false",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "53",
+    "type": "truefalse",
+    "question": "The book of Acts describes the early church after Jesus' ascension.",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "54",
+    "type": "truefalse",
+    "question": "Jonah spent 2 days inside the great fish.",
+    "correctAnswer": "false",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "55",
+    "type": "truefalse",
+    "question": "The Golden Rule is 'Do to others what you want them to do to you.'",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "56",
+    "type": "multiple",
+    "question": "Who denied Jesus three times before the rooster crowed?",
+    "correctAnswer": "0",
+    "options": ["Peter", "Judas", "Thomas", "John"]
+  },
+  {
+    "id": "57",
+    "type": "multiple",
+    "question": "Which book comes right before Psalms in the Bible?",
+    "correctAnswer": "2",
+    "options": ["Proverbs", "Job", "Job", "Ecclesiastes"]
+  },
+  {
+    "id": "58",
+    "type": "multiple",
+    "question": "What was Paul's original name before his conversion?",
+    "correctAnswer": "1",
+    "options": ["Simon", "Saul", "Stephen", "Silas"]
+  },
+  {
+    "id": "59",
+    "type": "multiple",
+    "question": "How many days was Lazarus dead before Jesus raised him?",
+    "correctAnswer": "3",
+    "options": ["1", "2", "3", "4"]
+  },
+  {
+    "id": "60",
+    "type": "multiple",
+    "question": "Which of these is NOT one of the Ten Commandments?",
+    "correctAnswer": "2",
+    "options": ["Do not steal", "Honor your parents", "Do not lie", "Love your neighbor"]
+  }
+]

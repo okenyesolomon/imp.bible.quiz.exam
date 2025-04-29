@@ -1,0 +1,417 @@
+[
+    {
+        "id": "1",
+        "type": "truefalse",
+        "question": "One can be sanctified through the work of the spirit.",
+        "correctAnswer": "true",
+        "options": ["true", "false"]
+    },
+    {
+        "id": "2",
+        "type": "truefalse",
+        "question": "God the Father is worthy.",
+        "correctAnswer": "true",
+        "options": ["true", "false"]
+    },
+
+    {
+        "id": "3",
+        "type": "truefalse",
+        "question": "Jesus was sold for 30 pieces of silver.",
+        "correctAnswer": "true",
+        "options": ["true", "false"]
+      },
+
+    {
+        "id": "4",
+        "type": "truefalse",
+        "question": "Eliezer was Abraham’s servant.",
+        "correctAnswer": "true",
+        "options": ["true", "false"]
+    },
+
+    {
+        "id": "5",
+        "type": "truefalse",
+        "question": "Abraham doubted God.",
+        "correctAnswer": "false",
+        "options": ["true", "false"]
+    },
+    {
+        "id": "6",
+        "type": "truefalse",
+        "question": "A pure heart is free from contamination.",
+        "correctAnswer": "true",
+        "options": ["true", "false"]
+    },
+    {
+        "id": "7",
+        "type": "truefalse",
+        "question": "Queen Esther lived an excellent life.",
+        "correctAnswer": "true",
+        "options": ["true", "false"]
+    },
+    {
+        "id": "8",
+        "type": "truefalse",
+        "question": "Sin is described as a transgression of God’s law in 1 John 3:4.",
+        "correctAnswer": "true",
+        "options": ["true", "false"]
+    },
+    {
+        "id": "9",
+        "type": "truefalse",
+        "question": "Bad company is an obstacle in believing in your identity.",
+        "correctAnswer": "true",
+        "options": ["true", "false"]
+    },
+    {
+        "id": "10",
+        "type": "truefalse",
+        "question": "Failure is one of the benefits of an excellent life.",
+        "correctAnswer": "false",
+        "options": ["true", "false"]
+    },
+    {
+        "id": "11",
+        "type": "multiple",
+        "question": "The following are types of mental illness except.",
+        "correctAnswer": "2",
+        "options": ["mood disorder", "anxiety disorder", "peace", "eating disorder"]
+    },
+    {
+        "id": "12",
+        "type": "multiple",
+        "question": "One of these is a practical step to overcoming addiction.",
+        "correctAnswer": "2",
+        "options": ["escape", "deception", "renewal of mind", "hurt"]
+    },
+    {
+        "id": "13",
+        "type": "multiple",
+        "question": "Two are examples of obedient people in the Bible.",
+        "correctAnswer": "2",
+        "options": ["Samson and Saul", "Saul and Cain", "Abraham and Daniel", "Adam and Eve"]
+    },
+    {
+        "id": "14",
+        "type": "multiple",
+        "question": "The following are examples of bad manners except.",
+        "correctAnswer": "2",
+        "options": ["complaining", "disrespecting older people", "using proper greetings", "not being cheerful"]
+    },
+    {
+        "id": "15",
+        "type": "multiple",
+        "question": "Giving is the ————.",
+        "correctAnswer": "1",
+        "options": ["receiving from God", "offering of something to God", "holding back of our money from God", "telling lies to God"]
+    },
+    {
+        "id": "16",
+        "type": "multiple",
+        "question": "Self-esteem is ———.",
+        "correctAnswer": "1",
+        "options": ["feeling of unworthiness", "how we value and perceive ourselves", "lack of Confidence", "not embracing your identity in Christ"]
+    },
+    {
+        "id": "17",
+        "type": "multiple",
+        "question": "A S.M.A.R.T. goal is one that is ———.",
+        "correctAnswer": "0",
+        "options": ["specific", "irrelevant", "non-achievable", "immeasurable"]
+    },
+    {
+        "id": "18",
+        "type": "multiple",
+        "question": "————— is not an area of kingdom service.",
+        "correctAnswer": "1",
+        "options": ["evangelism", "eye service", "using your talent to serve God", "financial service"]
+    },
+    {
+        "id": "19",
+        "type": "multiple",
+        "question": "God wants ———— obedience from us always.",
+        "correctAnswer": "1",
+        "options": ["partial", "complete", "incomplete", "unstable"]
+    },
+    {
+        "id": "20",
+        "type": "multiple",
+        "question": "———— is not one of the miracles performed by Jesus.",
+        "correctAnswer": "2",
+        "options": ["turning water into wine", "walked on water", "fought with his disciples", "made the lame to walk"]
+    },
+    {
+        "id": "21",
+        "type": "multiple",
+        "question": "Who did Jesus say would guide believers into all truth, according to John 16:13?",
+        "correctAnswer": "2",
+        "options": ["The Father", "Jesus Himself", "The Holy Spirit", "The Bible"]
+    },
+    {
+        "id": "22",
+        "type": "multiple",
+        "question": "According to Romans 15:16, what is Paul's ministry for the sake of the gospel?",
+        "correctAnswer": "1",
+        "options": ["To preach to the Jews", "To preach to the Gentiles", "To minister to the saints", "To sanctify the believers"]
+    },
+    {
+        "id": "23",
+        "type": "multiple",
+        "question": "Who sanctifies believers through the offering of Jesus' body, according to Hebrews 10:10?",
+        "correctAnswer": "0",
+        "options": ["Jesus", "The Holy Spirit", "God the Father", "The believer themselves"]
+    },
+    {
+        "id": "24",
+        "type": "multiple",
+        "question": "According to 1 Corinthians 1:30, what has God made believers in Christ Jesus?",
+        "correctAnswer": "3",
+        "options": ["Wise", "Righteous", "Holy", "All the above"]
+    },
+    {
+        "id": "25",
+        "type": "multiple",
+        "question": "Who did Jesus say would give believers another Helper, according to John 14:16?",
+        "correctAnswer": "0",
+        "options": ["The Father", "Jesus Himself", "The Holy Spirit", "The apostles"]
+    },
+    {
+        "id": "26",
+        "type": "multiple",
+        "question": "According to 2 Thessalonians 2:13, what did God choose believers for?",
+        "correctAnswer": "2",
+        "options": ["Salvation", "Sanctification", "Both salvation and sanctification", "Neither salvation"]
+    },
+    {
+        "id": "27",
+        "type": "multiple",
+        "question": "Who is the one who sanctifies believers, according to Hebrews 13:12?",
+        "correctAnswer": "0",
+        "options": ["Jesus", "The Holy Spirit", "God the Father", "The believer themselves"]
+    },
+    {
+        "id": "28",
+        "type": "multiple",
+        "question": "According to 1 Peter 3:15, what should believers be prepared to do?",
+        "correctAnswer": "1",
+        "options": ["Preach the gospel", "Defend the faith", "Sanctify the Lord", "All of the above"]
+    },
+    {
+        "id": "29",
+        "type": "multiple",
+        "question": "Who did Jesus say would teach believers all things, according to John 14:26?",
+        "correctAnswer": "2",
+        "options": ["The Father", "Jesus Himself", "The Holy Spirit", "The apostles"]
+    },
+    {
+        "id": "30",
+        "type": "multiple",
+        "question": "According to Romans 6:19, what should believers yield their members to?",
+        "correctAnswer": "1",
+        "options": ["Sin", "Righteousness", "Holiness", "The law"]
+    },
+
+  {
+    "id": "31",
+    "type": "multiple",
+    "question": "Who built the ark to save his family and the animals from the flood?",
+    "correctAnswer": "0",
+    "options": ["Noah", "Moses", "Abraham", "David"]
+  },
+  {
+    "id": "32",
+    "type": "fillblank",
+    "question": "Jesus fed 5,000 people with just five loaves of ______ and two ______.",
+    "correctAnswer": "bread fish"
+   
+  },
+  {
+    "id": "33",
+    "type": "truefalse",
+    "question": "Jonah was swallowed by a whale. (True/False)",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "34",
+    "type": "multiple",
+    "question": "Which woman hid two spies in Jericho?",
+    "correctAnswer": "0",
+    "options": ["Rahab", "Esther", "Ruth", "Deborah"]
+  },
+  {
+    "id": "35",
+    "type": "fillblank",
+    "question": "The first man God created was named ______, and the first woman was ______.",
+    "correctAnswer": "Adam Eve"
+  },
+  {
+    "id": "36",
+    "type": "truefalse",
+    "question": "David fought Goliath with a sling and a sword. (True/False)",
+    "correctAnswer": "false",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "37",
+    "type": "multiple",
+    "question": "What did God create on the first day?",
+    "correctAnswer": "0",
+    "options": ["Light", "Animals", "Plants", "The Sun"]
+  },
+  {
+    "id": "38",
+    "type": "fillblank",
+    "question": "Jesus was born in the town of ______.",
+    "correctAnswer": "Bethlehem"
+  },
+  {
+    "id": "39",
+    "type": "truefalse",
+    "question": "Samson’s strength was in his long hair. (True/False)",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "40",
+    "type": "multiple",
+    "question": "Who was thrown into a lions’ den but survived because God protected him?",
+    "correctAnswer": "0",
+    "options": ["Daniel", "Joseph", "Elijah", "Joshua"]
+  },
+  {
+    "id": "41",
+    "type": "fillblank",
+    "question": "Jesus said, 'I am the ______, the ______, and the ______.'",
+    "correctAnswer": "way truth life"
+  },
+  {
+    "id": "42",
+    "type": "truefalse",
+    "question": "Jesus turned water into milk. (True/False)",
+    "correctAnswer": "false",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "43",
+    "type": "multiple",
+    "question": "Which animal talked to Balaam?",
+    "correctAnswer": "0",
+    "options": ["Donkey", "Lion", "Dove", "Serpent"]
+  },
+  {
+    "id": "44",
+    "type": "fillblank",
+    "question": "The Lord is my ______; I shall not want.",
+    "correctAnswer": "shepherd"
+  },
+  {
+    "id": "45",
+    "type": "truefalse",
+    "question": "Abraham had 12 sons. (True/False)",
+    "correctAnswer": "false",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "46",
+    "type": "multiple",
+    "question": "What is the last book of the New Testament?",
+    "correctAnswer": "0",
+    "options": ["Revelation", "Jude", "Acts", "James"]
+  },
+  {
+    "id": "47",
+    "type": "fillblank",
+    "question": "For God so loved the world that He gave His only ______ ______.",
+    "correctAnswer": "begotten Son"
+  },
+  {
+    "id": "48",
+    "type": "truefalse",
+    "question": "Moses parted the Red Sea with a staff. (True/False)",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "49",
+    "type": "multiple",
+    "question": "Who was Jesus’ mother?",
+    "correctAnswer": "1",
+    "options": ["Mary Magdalene", "Mary", "Sarah", "Elizabeth"]
+  },
+  {
+    "id": "50",
+    "type": "fillblank",
+    "question": "The fruit of the Spirit includes love, joy, and ______.",
+    "correctAnswer": "peace"
+  },
+  {
+    "id": "51",
+    "type": "truefalse",
+    "question": "Paul wrote most of the New Testament letters. (True/False)",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "52",
+    "type": "multiple",
+    "question": "Who betrayed Jesus for 30 pieces of silver?",
+    "correctAnswer": "0",
+    "options": ["Judas Iscariot", "Peter", "Thomas", "Pontius Pilate"]
+  },
+  {
+    "id": "53",
+    "type": "fillblank",
+    "question": "Jesus walked on ______ and calmed the ______.",
+    "correctAnswer": "water storm"
+  },
+  {
+    "id": "54",
+    "type": "truefalse",
+    "question": "The shortest verse in the Bible is 'Jesus wept.' (True/False)",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "55",
+    "type": "multiple",
+    "question": "Which bird brought an olive leaf to Noah’s ark?",
+    "correctAnswer": "2",
+    "options": ["Eagle", "Raven", "Dove", "Sparrow"]
+  },
+  {
+    "id": "56",
+    "type": "fillblank",
+    "question": "The Ten Commandments were written on tablets of ______.",
+    "correctAnswer": "stone"
+  },
+  {
+    "id": "57",
+    "type": "truefalse",
+    "question": "Jesus fasted for 40 days in the wilderness. (True/False)",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "58",
+    "type": "multiple",
+    "question": "Who was the strongest man in the Bible?",
+    "correctAnswer": "0",
+    "options": ["Samson", "Goliath", "Saul", "Solomon"]
+  },
+  {
+    "id": "59",
+    "type": "fillblank",
+    "question": "God created the sun, moon, and stars on day ______.",
+    "correctAnswer": "four"
+  },
+  {
+    "id": "60",
+    "type": "truefalse",
+    "question": "The Bible has 66 books in total. (True/False)",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  }
+]

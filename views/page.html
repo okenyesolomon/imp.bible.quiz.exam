@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMP Bible Quiz | Exam</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+             <h1><b style="color: gold;">IMP</b> Exam Portal</h1>
+            <p>Test your knowledge of the faith</p>
+        </header>
+        
+        <main>
+            <div class="card">
+                <h2>Student Login</h2>
+                <p>Take your examination here</p>
+                <a href="/exam" class="btn">Start Exam</a>
+            </div>
+            
+            <div class="card">
+                <h2>Admin Portal</h2>
+                <p>Manage questions and Results</p>
+                <a href="/admin" class="btn">Admin Login</a>
+            </div>
+
+
+            <div class="card">
+                <h2 style="color: darkorange;">View Results</h2>
+                <p>Check your bible quiz results here</p>
+                <a href="/search" class="btn">Check Result</a>
+            </div>
+        </main>
+    </div>
+
+        <footer class="sliding-footer">
+              <div class="footer-bg-overlay"></div>
+              <div class="footer-content">
+                <div class="changing-text-container">
+                  <div class="changing-text active" data-bg-theme="theme1">Jesus is the way</div>
+                  <div class="changing-text" data-bg-theme="theme2">Jesus is the truth</div>
+                  <div class="changing-text" data-bg-theme="theme3">The Sanctifier -- Jesus</div>
+                  <div class="changing-text" data-bg-theme="theme4">God is Love</div>
+                </div>
+                
+                <!-- Your regular footer content -->
+                <div class="static-footer-content">
+                    <img src="images/imperial-logo.jpg">
+                    <p>Created by <b> Okenye Solomon .T.</b> <strong> CEO of <a href="#" style=" color:#10e6ec; text-decoration: none;"> Imperial Net Web Agency</a> </strong></p>
+                    <nav>
+                        <b>Contact-Me:</b> <strong style=" color:#10e6ec;">09067593224 | 08022095374</strong>
+                        <b>Mail-Me:</b> <strong style=" color:#10e6ec;">imperialnetweb@gmail.com</strong>
+
+                    </nav>
+                  <p>© 2025 <b style="color: gold;">IMP Exam Portal</b>. All rights reserved.</p>
+                </div>
+              </div>
+        </footer>
+    <script>
+                document.addEventListener('DOMContentLoaded', function() {
+          const footer = document.querySelector('.sliding-footer');
+          const texts = document.querySelectorAll('.changing-text');
+          const themes = ['theme1', 'theme2', 'theme3', 'theme4'];
+          let currentIndex = 0;
+          
+          // Set initial state
+          footer.dataset.bgTheme = themes[0];
+          texts[0].classList.add('active');
+          
+          // Change text and background every 5 seconds
+          setInterval(() => {
+            // Fade out current text
+            texts[currentIndex].classList.remove('active');
+            
+            // Move to next index
+            currentIndex = (currentIndex + 1) % texts.length;
+            
+            // Change background theme
+            footer.dataset.bgTheme = themes[currentIndex];
+            
+            // Fade in new text
+            texts[currentIndex].classList.add('active');
+            
+          }, 5000); // Change every 5 seconds
+        });
+    </script>
+</body>
+</html>

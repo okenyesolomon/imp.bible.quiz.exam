@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Login</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container login-container">
+        <div class="login-box">
+            <h1>Admin Login</h1>
+            <% if (typeof error !== 'undefined') { %>
+                <div class="alert alert-error"><%= error %></div>
+            <% } %>
+            <form action="/admin/login" method="POST">
+                <div class="form-group">
+                    <label for="username">Username:</label>
+                    <input type="text" id="username" name="username" required>
+                </div>
+                <div class="form-group">
+                    <label for="password">Password:</label>
+                    <input type="password" id="password" name="password" required style="width: 100%; padding: 5px;">
+                </div>
+                <button type="submit" class="btn">Login</button>
+            </form>
+            <div class="login-footer">
+                <p>WARNING!!!! For security reasons, please log out after each session.  <br> Not an Admin: <a href="/page" class="">Go Back</a></p>
+            </div>
+        </div>
+    </div>
+   <script>
+       alert(' RESTRICTED ACCESS!!!!!!!  please note that this section is for admin or teachers ONLY... students are not allowed to view this page.')
+       alert(' WARNING!!!! For security reasons, please log out after each session.')
+
+   </script>
+</body>
+</html>

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMP Bible Quiz | Results Search</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .result-card {
+            border-radius: 8px;
+            margin-bottom: 20px;
+            transition: all 0.3s;
+        }
+        .result-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        }
+        .qualified {
+            border-left: 5px solid #28a745;
+        }
+        .not-qualified {
+            border-left: 5px solid #fd7e14;
+        }
+        .search-box {
+            max-width: 600px;
+            margin: 0 auto 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container py-5">
+        <div class="text-center mb-5">
+            <h1><strong style="color: darkgoldenrod;">IMP</strong> <b style="color: #2196F3;;">Bible Quiz Results Portal</b></h1>
+            <p class="lead">Search for your exam results</p>
+        </div>
+        
+        <div class="search-box">
+            <div class="input-group mb-3">
+                <input type="text" id="searchInput" class="form-control form-control-lg" 
+                       placeholder="Enter your name, parish, or zone...">
+                <button class="btn btn-primary" type="button" id="searchButton">Search</button>
+            </div>
+        </div>
+        
+        <div id="resultsContainer">
+            <!-- Results will be displayed here -->
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const searchInput = document.getElementById('searchInput');
+            const searchButton = document.getElementById('searchButton');
+            const resultsContainer = document.getElementById('resultsContainer');
+            
+            // Search when button is clicked or Enter is pressed
+            searchButton.addEventListener('click', searchResults);
+            searchInput.addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') searchResults();
+            });
+            
+            // Load all results initially
+            fetchResults();
+            
+            async function fetchResults() {
+                try {
+                    const response = await fetch('/api/results');
+                    const results = await response.json();
+                    displayResults(results);
+                } catch (error) {
+                    console.error('Error:', error);
+                    resultsContainer.innerHTML = `
+                        <div class="alert alert-danger">
+                            Failed to load results. Please try again later.
+                        </div>
+                    `;
+                }
+            }
+            
+            async function searchResults() {
+                const query = searchInput.value.trim();
+                if (query.length < 2) {
+                    fetchResults();
+                    return;
+                }
+                
+                try {
+                    const response = await fetch(`/api/results/search?q=${encodeURIComponent(query)}`);
+                    const results = await response.json();
+                    displayResults(results);
+                } catch (error) {
+                    console.error('Error:', error);
+                }
+            }
+            
+            function displayResults(results) {
+                if (results.length === 0) {
+                    resultsContainer.innerHTML = `
+                        <div class="alert alert-info">
+                            No results found. Try a different search term.
+                        </div>
+                    `;
+                    return;
+                }
+                
+                let html = '';
+                results.forEach(result => {
+                    const isQualified = result.qualificationStatus === 'qualified';
+                    
+                    html += `
+                        <div class="card result-card ${isQualified ? 'qualified' : 'not-qualified'} mb-3">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <h4>${result.fullName}</h4>
+                                        <p class="text-muted">
+                                            ${result.parish} • ${result.zone} • ${result.ageGroup}
+                                        </p>
+                                        <p>
+                                            <strong>Score:</strong> ${result.score}/${result.totalQuestions} 
+                                            (${result.percentage}%)
+                                        </p>
+                                    </div>
+                                    <div class="col-md-4 text-end">
+                                        <span class="badge ${isQualified ? 'bg-success' : 'bg-warning'} fs-6">
+                                            ${isQualified ? 'Qualified' : 'Not Qualified'}
+                                        </span>
+                                        <button class="btn btn-sm btn-outline-primary mt-2" 
+                                                onclick="downloadResult('${result._id}')">
+                                            Download
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                });
+                
+                resultsContainer.innerHTML = html;
+            }
+            
+            window.downloadResult = function(resultId) {
+                // In a real implementation, this would fetch the PDF from the server
+                alert(`Downloading result with ID: ${resultId}`);
+            };
+        });
+    </script>
+</body>
+</html>

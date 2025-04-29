@@ -1,0 +1,418 @@
+[
+  {
+    "id": "1",
+    "type": "multiple",
+    "question": "While we were yet sinners ________ died for us?",
+    "correctAnswer": "3",
+    "options": ["Peter", "Paul", "John", "Christ"]
+  },
+  {
+    "id": "2",
+    "type": "multiple",
+    "question": "Euphraim and Mannaseh were the sons of ________",
+    "correctAnswer": "2",
+    "options": ["Judah", "Isachar", "Joseph", "Benjamin"]
+  },
+  {
+    "id": "3",
+    "type": "multiple",
+    "question": "Gehazi was the servant of _________",
+    "correctAnswer": "1",
+    "options": ["Elijah", "Elisha", "Abraham", "Nicodemus"]
+  },
+  {
+    "id": "4",
+    "type": "multiple",
+    "question": "________ was chosen to take the place of Judas Iscariot",
+    "correctAnswer": "3",
+    "options": ["Justus", "Barsabbas", "Philip", "Matthias"]
+  },
+  {
+    "id": "5",
+    "type": "multiple",
+    "question": "Peter healed a ______ man at the beautiful gate",
+    "correctAnswer": "0",
+    "options": ["Lame", "Dumb", "Deaf", "Blind"]
+  },
+  {
+    "id": "6",
+    "type": "multiple",
+    "question": "I lift up my eyes to the hills from where cometh my _________",
+    "correctAnswer": "0",
+    "options": ["Help", "Favour", "Mercy", "Honour"]
+  },
+  {
+    "id": "7",
+    "type": "multiple",
+    "question": "Joseph from _______ requested for the body of Christ to be buried.",
+    "correctAnswer": "0",
+    "options": ["Arimathea", "Jerusalem", "Galilee", "Samaria"]
+  },
+  {
+    "id": "8",
+    "type": "multiple",
+    "question": "Blessed are the _____ for they shall inherit the earth",
+    "correctAnswer": "1",
+    "options": ["Beautiful", "Meek", "Rich", "Merciful"]
+  },
+  {
+    "id": "9",
+    "type": "multiple",
+    "question": "Blessed are the pure in spirit for theirs is the kingdom of _______",
+    "correctAnswer": "0",
+    "options": ["Heaven", "Earth", "Church", "The World"]
+  },
+  {
+    "id": "10",
+    "type": "multiple",
+    "question": "_______ is the father of Samuel",
+    "correctAnswer": "2",
+    "options": ["Peninah", "Hannah", "Elkanah", "Eli"]
+  },
+  {
+    "id": "11",
+    "type": "multiple",
+    "question": "Which of this persons is regarded as a sanctifier",
+    "correctAnswer": "3",
+    "options": ["Moses", "Jacob", "David", "Jesus"]
+  },
+  {
+    "id": "12",
+    "type": "multiple",
+    "question": "\"For the wages of sin is death, but the Gift of God is eternal life in Christ Jesus our lord\" is found in which of these bible verse?",
+    "correctAnswer": "1",
+    "options": ["Jeremiah 5:10", "Romans 6:23", "John 14:5", "Mark 1:25"]
+  },
+  {
+    "id": "13",
+    "type": "multiple",
+    "question": "The following are physical difference between male and female except _______",
+    "correctAnswer": "3",
+    "options": ["Body composition", "Height and size", "Reproductive organs", "Identity"]
+  },
+  {
+    "id": "14",
+    "type": "multiple",
+    "question": "Which of this is not part of people we should obey",
+    "correctAnswer": "3",
+    "options": ["God", "Parent", "Authorities", "Ourselves"]
+  },
+  {
+    "id": "15",
+    "type": "truefalse",
+    "question": "Talent is Inborn",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "16",
+    "type": "multiple",
+    "question": "\"Faith is the substance of things hoped for and the evidence of things not seen.\" Which of these bible verse best described these word?",
+    "correctAnswer": "0",
+    "options": ["Hebrew 11:1", "John 3:14", "Mark 5:5", "James 1:3"]
+  },
+  {
+    "id": "17",
+    "type": "multiple",
+    "question": "Our body was created to ______ God.",
+    "correctAnswer": "2",
+    "options": ["Sin against", "Wrong", "Glorify", "Fight"]
+  },
+  {
+    "id": "18",
+    "type": "multiple",
+    "question": "_________ was warned by God?",
+    "correctAnswer": "1",
+    "options": ["Abraham", "Noah", "John", "Esau"]
+  },
+  {
+    "id": "19",
+    "type": "multiple",
+    "question": "________ took on human flesh to save and to sanctify us from the power of sin?",
+    "correctAnswer": "3",
+    "options": ["Gehazi", "Philip", "Justus", "Jesus"]
+  },
+  {
+    "id": "20",
+    "type": "multiple",
+    "question": "______ teaches us that the life of Christ can lived in and through us?",
+    "correctAnswer": "1",
+    "options": ["Old testament", "New testament", "Book of the world", "Computer"]
+  },
+  {
+    "id": "21",
+    "type": "multiple",
+    "question": "We were redeemed through the blood of _________",
+    "correctAnswer": "0",
+    "options": ["Jesus", "Judas", "Samuel", "Eli"]
+  },
+  {
+    "id": "22",
+    "type": "multiple",
+    "question": "Who did the word of God Came to in the day of Josiah the son of Amon king of Judah.",
+    "correctAnswer": "2",
+    "options": ["Timothy", "Titus", "Jeremiah", "Ezra"]
+  },
+  {
+    "id": "23",
+    "type": "multiple",
+    "question": "The word \"Before i found thee in the belly, i knew thee\" is gotten from which verse?",
+    "correctAnswer": "1",
+    "options": ["Mark", "Jeremiah", "Nehemiah", "Psalms"]
+  },
+  {
+    "id": "24",
+    "type": "multiple",
+    "question": "We are regarded as the workmanship created in _________",
+    "correctAnswer": "3",
+    "options": ["Meekness", "God", "Greatness", "Christ"]
+  },
+  {
+    "id": "25",
+    "type": "multiple",
+    "question": "_______ is a man travelling into a far country?",
+    "correctAnswer": "0",
+    "options": ["Kingdom of heaven", "Earth", "Church", "House"]
+  },
+  {
+    "id": "26",
+    "type": "truefalse",
+    "question": "Money answers all things.",
+    "correctAnswer": "false",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "27",
+    "type": "multiple",
+    "question": "We will _______ account of the talents he has given to us.",
+    "correctAnswer": "1",
+    "options": ["Receive", "Give", "Have", "Do"]
+  },
+  {
+    "id": "28",
+    "type": "multiple",
+    "question": "When should we lay in store as God has prospered us?",
+    "correctAnswer": "1",
+    "options": ["Second day of the week", "First day of the week", "Third day of the week", "Fourth day of the week"]
+  },
+  {
+    "id": "29",
+    "type": "truefalse",
+    "question": "A lazy person can never be financially buoyant.",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "30",
+    "type": "multiple",
+    "question": "What you don't use you will loss. is seen in which of these bible verse?",
+    "correctAnswer": "0",
+    "options": ["Matthew 25:28", "Matthew 1:5", "Matthew 5:10", "Matthew 10:2"]
+  },
+  {
+    "id": "31",
+    "type": "multiple",
+    "question": "_______ is the act of abiding by instructions?",
+    "correctAnswer": "1",
+    "options": ["Self instructions", "Obedience", "Faith", "Fear"]
+  },
+  {
+    "id": "32",
+    "type": "multiple",
+    "question": "The following verses writes out the blessings of obedience except",
+    "correctAnswer": "0",
+    "options": ["Exodus 28:22", "Jeremiah 7:23", "John 14:21", "Ezra 1:3"]
+  },
+  {
+    "id": "33",
+    "type": "multiple",
+    "question": "_______ lived purposefully by seeking God's guidance and leading his people.",
+    "correctAnswer": "0",
+    "options": ["Moses", "David", "Esther", "Paul"]
+  },
+  {
+    "id": "34",
+    "type": "multiple",
+    "question": "That he might sanctify and cleanse it with the washing of water by the word can be seen _________",
+    "correctAnswer": "3",
+    "options": ["Luke 5:18", "Mark 4:16", "Rom 4:8", "Eph 5:26"]
+  },
+  {
+    "id": "35",
+    "type": "multiple",
+    "question": "________ Lead the Israelites out Egypt?",
+    "correctAnswer": "2",
+    "options": ["David", "Ezra", "Moses", "Jacob"]
+  },
+  {
+    "id": "36",
+    "type": "multiple",
+    "question": "We should have total dependence on the holy spirit according to which verse?",
+    "correctAnswer": "0",
+    "options": ["Colossians", "Genesis", "Matthew", "James"]
+  },
+  {
+    "id": "37",
+    "type": "multiple",
+    "question": "How many servant were given talent?",
+    "correctAnswer": "2",
+    "options": ["4", "2", "3", "5"]
+  },
+  {
+    "id": "38",
+    "type": "multiple",
+    "question": "The following bible verses talked about money except",
+    "correctAnswer": "1",
+    "options": ["Matt", "Ezra", "Eccel", "Heb"]
+  },
+  {
+    "id": "39",
+    "type": "multiple",
+    "question": "_______ can prevent us form achieving our goals?",
+    "correctAnswer": "0",
+    "options": ["Pride", "Greed", "Fear", "Lust"]
+  },
+  {
+    "id": "40",
+    "type": "truefalse",
+    "question": "We will give account of everything we do on earth.",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "41",
+    "type": "multiple",
+    "question": "The Earth is mine is a word said by _________",
+    "correctAnswer": "2",
+    "options": ["Noah", "Jeremiah", "God", "Saul"]
+  },
+  {
+    "id": "42",
+    "type": "multiple",
+    "question": "______ describes Jesus obedience even unto death on the cross",
+    "correctAnswer": "0",
+    "options": ["Philippians", "1 Peter", "Luke", "Matthew"]
+  },
+  {
+    "id": "43",
+    "type": "truefalse",
+    "question": "Obedience to God brings various blessings to believers.",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "44",
+    "type": "multiple",
+    "question": "_______ Is a typical example of ultimate obedience.",
+    "correctAnswer": "3",
+    "options": ["Paul", "Saul", "David", "Jesus"]
+  },
+  {
+    "id": "45",
+    "type": "truefalse",
+    "question": "The Bible provides guidelines for righteous living.",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "46",
+    "type": "truefalse",
+    "question": "Galatians 2:20 speaks about the crucifying and allowing Christ to live through believers.",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "47",
+    "type": "truefalse",
+    "question": "God created man in his own image and in his image he created male and female.",
+    "correctAnswer": "true",
+    "options": ["true", "false"]
+  },
+  {
+    "id": "48",
+    "type": "multiple",
+    "question": "In the Old Testament, which prophet was told to marry a prostitute as a symbolic act?",
+    "correctAnswer": "0",
+    "options": ["Hosea", "Ezekiel", "Jeremiah", "Isaiah"]
+  },
+  {
+    "id": "49",
+    "type": "multiple",
+    "question": "Which New Testament book warns about the 'heresy of the Nicolaitans'?",
+    "correctAnswer": "0",
+    "options": ["Revelation", "Jude", "2 Peter", "1 John"]
+  },
+  {
+    "id": "50",
+    "type": "multiple",
+    "question": "What strange ingredient did Elisha use to purify poisoned stew?",
+    "correctAnswer": "2",
+    "options": ["Olive oil", "Salt", "Flour", "Honey"]
+  },
+  {
+    "id": "51",
+    "type": "multiple",
+    "question": "Which judge of Israel killed 600 Philistines with an ox goad?",
+    "correctAnswer": "1",
+    "options": ["Gideon", "Shamgar", "Samson", "Jephthah"]
+  },
+  {
+    "id": "52",
+    "type": "multiple",
+    "question": "In Romans 7, Paul compares the Law to what binding relationship?",
+    "correctAnswer": "3",
+    "options": ["Master-servant", "Slavery", "Parent-child", "Marriage"]
+  },
+  {
+    "id": "53",
+    "type": "multiple",
+    "question": "Which king of Judah was struck with leprosy for unlawfully offering incense?",
+    "correctAnswer": "0",
+    "options": ["Uzziah", "Ahaz", "Manasseh", "Jehoram"]
+  },
+  {
+    "id": "54",
+    "type": "fillblank",
+    "question": "In Genesis 3:15, God says the offspring of the woman will crush the serpent's ______, and the serpent will strike his ______.",
+    "correctAnswer": "head heel"
+  },
+  {
+    "id": "55",
+    "type": "multiple",
+    "question": "Which disciple was a Zealot before following Jesus?",
+    "correctAnswer": "2",
+    "options": ["Matthew", "Judas Iscariot", "Simon", "Thomas"]
+  },
+  {
+    "id": "56",
+    "type": "fillblank",
+    "question": "Jesus told Peter, 'Before the ______ crows, you will deny me ______ times.'",
+    "correctAnswer": "rooster three"
+  },
+  {
+    "id": "57",
+    "type": "multiple",
+    "question": "Which New Testament letter quotes Greek poets and philosophers?",
+    "correctAnswer": "0",
+    "options": ["Acts", "Hebrews", "1 Corinthians", "Titus"]
+  },
+  {
+    "id": "58",
+    "type": "fillblank",
+    "question": "Paul wrote, 'For we do not wrestle against ______ and ______, but against spiritual forces of evil.'",
+    "correctAnswer": "flesh blood"
+  },
+  {
+    "id": "59",
+    "type": "fillblank",
+    "question": "Proverbs 25:22 says, 'For you will heap ______ of fire on his ______, and the LORD will reward you.'",
+    "correctAnswer": "coals head"
+  },
+  {
+    "id": "60",
+    "type": "multiple",
+    "question": "What bizarre sign did Isaiah give to King Ahaz in Isaiah 7:14?",
+    "correctAnswer": "0",
+    "options": ["A virgin will conceive", "A donkey will speak", "The sun will darken", "A river will flow backward"]
+  }
+]

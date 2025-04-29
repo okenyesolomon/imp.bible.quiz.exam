@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMP | Quiz Results Management</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        :root {
+            --qualified-color: #28a745;
+            --not-qualified-color: #fd7e14;
+        }
+        body {
+            background-color: #f8f9fa;
+            padding: 20px;
+        }
+        h1 {
+            color: #2196F3;
+        }
+        .results-card {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            padding: 30px;
+            margin-bottom: 30px;
+        }
+        .qualified-header {
+            background-color: var(--qualified-color);
+            color: white;
+        }
+        .not-qualified-header {
+            background-color: var(--not-qualified-color);
+            color: white;
+        }
+        .stats-card {
+            border-left: 4px solid;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        .stats-card.qualified {
+            border-color: var(--qualified-color);
+            background-color: rgba(40, 167, 69, 0.1);
+        }
+        .stats-card.not-qualified {
+            border-color: var(--not-qualified-color);
+            background-color: rgba(253, 126, 20, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1><strong style="color: darkgoldenrod;">IMP</strong> Quiz Results Management</h1>
+            <a href="/admin" class="btn btn-outline-primary">Back to Admin</a>
+            <a href="/search" class="btn btn-outline-primary">Student Portal</a>
+        </div>
+        
+        <form id="resultsForm">
+            <div class="results-card">
+                <div class="header" id="statusHeader">
+                    <h2>Add New Result</h2>
+                </div>
+                
+                <!-- Student Information -->
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <label class="form-label">Full Name*</label>
+                        <input type="text" class="form-control" id="fullName" required>
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label">Exam Date*</label>
+                        <input type="date" class="form-control" id="examDate" required>
+                    </div>
+                </div>
+                
+                <!-- Demographic Information -->
+                <div class="row mb-3">
+                    <div class="col-md-4">
+                        <label class="form-label">Gender*</label>
+                        <select class="form-select" id="gender" required>
+                            <option value="" disabled selected>Select gender</option>
+                            <option value="Male">Male</option>
+                            <option value="Female">Female</option>
+                        </select>
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">Parish*</label>
+                        <input type="text" class="form-control" id="parish" required>
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">Zone*</label>
+                        <input type="text" class="form-control" id="zone" required>
+                    </div>
+                </div>
+                
+                <!-- Exam Results -->
+                <div class="row mb-3">
+                    <div class="col-md-4">
+                        <label class="form-label">Score*</label>
+                        <input type="number" class="form-control" id="score" min="0" required>
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">Total Questions*</label>
+                        <input type="number" class="form-control" id="totalQuestions" min="1" required>
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">Percentage</label>
+                        <div class="input-group">
+                            <input type="number" class="form-control" id="percentage" readonly>
+                            <span class="input-group-text">%</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="row mb-3">
+                    <div class="col-md-4">
+                        <label class="form-label">Questions Attempted*</label>
+                        <input type="number" class="form-control" id="questionsAttempted" min="0" required>
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">Questions Passed</label>
+                        <input type="number" class="form-control" id="questionsPassed" min="0">
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">Questions Failed</label>
+                        <input type="number" class="form-control" id="questionsFailed" min="0">
+                    </div>
+                </div>
+                
+                <div class="row mb-4">
+                    <div class="col-md-6">
+                        <label class="form-label">Qualification Status*</label>
+                        <select class="form-select" id="qualificationStatus" required>
+                            <option value="" disabled selected>Select status</option>
+                            <option value="qualified">Qualified</option>
+                            <option value="not-qualified">Not Qualified</option>
+                        </select>
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label">Age Group*</label>
+                        <select class="form-select" id="ageGroup" required>
+                            <option value="" disabled selected>Select age group</option>
+                            <option value="9-12">9-12 years</option>
+                            <option value="13-15">13-15 years</option>
+                            <option value="16-19">16-19 years</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <div class="d-flex justify-content-between">
+                    <button type="button" class="btn btn-success" id="generatePdf">Download PDF</button>
+                    <button type="submit" class="btn btn-primary">Save Result</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const form = document.getElementById('resultsForm');
+            const scoreInput = document.getElementById('score');
+            const totalInput = document.getElementById('totalQuestions');
+            const percentageInput = document.getElementById('percentage');
+            
+            // Auto-calculate percentage
+            scoreInput.addEventListener('input', calculatePercentage);
+            totalInput.addEventListener('input', calculatePercentage);
+            
+            function calculatePercentage() {
+                const score = parseFloat(scoreInput.value) || 0;
+                const total = parseFloat(totalInput.value) || 1;
+                const percentage = (score / total) * 100;
+                percentageInput.value = percentage.toFixed(2);
+                
+                // Auto-set qualification status
+                document.getElementById('qualificationStatus').value = 
+                    percentage >= 70 ? 'qualified' : 'not-qualified';
+            }
+            
+            // Form submission
+            form.addEventListener('submit', async function(e) {
+                e.preventDefault();
+                
+                const resultData = {
+                    fullName: document.getElementById('fullName').value,
+                    gender: document.getElementById('gender').value,
+                    parish: document.getElementById('parish').value,
+                    zone: document.getElementById('zone').value,
+                    ageGroup: document.getElementById('ageGroup').value,
+                    examDate: document.getElementById('examDate').value,
+                    score: parseFloat(scoreInput.value),
+                    totalQuestions: parseFloat(totalInput.value),
+                    questionsAttempted: parseInt(document.getElementById('questionsAttempted').value),
+                    questionsPassed: parseInt(document.getElementById('questionsPassed').value),
+                    questionsFailed: parseInt(document.getElementById('questionsFailed').value),
+                    percentage: parseFloat(percentageInput.value),
+                    qualificationStatus: document.getElementById('qualificationStatus').value
+                };
+                
+                try {
+                    const response = await fetch('/api/results', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify(resultData)
+                    });
+                    
+                    if (response.ok) {
+                        alert('Result saved successfully!');
+                        form.reset();
+                    } else {
+                        alert('Error saving result');
+                    }
+                } catch (error) {
+                    console.error('Error:', error);
+                    alert('Failed to save result');
+                }
+            });
+            
+            // PDF Generation
+            document.getElementById('generatePdf').addEventListener('click', function() {
+                const { jsPDF } = window.jspdf;
+                const doc = new jsPDF();
+                
+                // Add content to PDF
+                doc.text('Exam Result', 105, 15, { align: 'center' });
+                doc.text(`Name: ${document.getElementById('fullName').value}`, 15, 30);
+                doc.text(`Score: ${scoreInput.value}/${totalInput.value}`, 15, 40);
+                
+                // Save the PDF
+                doc.save('exam_result.pdf');
+            });
+        });
+    </script>
+</body>
+</html>

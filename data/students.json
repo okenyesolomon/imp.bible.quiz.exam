@@ -1,0 +1,2620 @@
+[
+  {
+    "id": 1745756264332,
+    "fullName": "Ikponmwosa  divine  favour  ",
+    "gender": "female",
+    "zone": "Immanuel  Mega  parish ",
+    "parish": "Immanuel  Mega  parish ",
+    "ageGroup": "9-12",
+    "score": 52,
+    "totalQuestions": 60,
+    "percentage": 86,
+    "date": "2025-04-27T12:17:44.332Z",
+    "answers": [
+      {
+        "question": "One can be sanctified through the work of the spirit.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "God the Father is worthy.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Jesus was sold for 30 pieces of silver.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Eliezer was Abraham’s servant.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Abraham doubted God.",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "A pure heart is free from contamination.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Queen Esther lived an excellent life.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Sin is described as a transgression of God’s law in 1 John 3:4.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Bad company is an obstacle in believing in your identity.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Failure is one of the benefits of an excellent life.",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "The following are types of mental illness except.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "One of these is a practical step to overcoming addiction.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Two are examples of obedient people in the Bible.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "The following are examples of bad manners except.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Giving is the ————.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Self-esteem is ———.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "A S.M.A.R.T. goal is one that is ———.",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "————— is not an area of kingdom service.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "God wants ———— obedience from us always.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "———— is not one of the miracles performed by Jesus.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did Jesus say would guide believers into all truth, according to John 16:13?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Romans 15:16, what is Paul's ministry for the sake of the gospel?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who sanctifies believers through the offering of Jesus' body, according to Hebrews 10:10?",
+        "userAnswer": "1",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 1 Corinthians 1:30, what has God made believers in Christ Jesus?",
+        "userAnswer": "3",
+        "correctAnswer": "3",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did Jesus say would give believers another Helper, according to John 14:16?",
+        "userAnswer": "2",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 2 Thessalonians 2:13, what did God choose believers for?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Who is the one who sanctifies believers, according to Hebrews 13:12?",
+        "userAnswer": "1",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 1 Peter 3:15, what should believers be prepared to do?",
+        "userAnswer": "0",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did Jesus say would teach believers all things, according to John 14:26?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Romans 6:19, what should believers yield their members to?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who built the ark to save his family and the animals from the flood?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus fed 5,000 people with just five loaves of ______ and two ______.",
+        "userAnswer": "Bread fishes",
+        "correctAnswer": "bread fish",
+        "isCorrect": true
+      },
+      {
+        "question": "Jonah was swallowed by a whale. (True/False)",
+        "userAnswer": "false",
+        "correctAnswer": "true",
+        "isCorrect": false
+      },
+      {
+        "question": "Which woman hid two spies in Jericho?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "The first man God created was named ______, and the first woman was ______.",
+        "userAnswer": "Adam eve",
+        "correctAnswer": "Adam Eve",
+        "isCorrect": true
+      },
+      {
+        "question": "David fought Goliath with a sling and a sword. (True/False)",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "What did God create on the first day?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus was born in the town of ______.",
+        "userAnswer": "Bethlehem",
+        "correctAnswer": "Bethlehem",
+        "isCorrect": true
+      },
+      {
+        "question": "Samson’s strength was in his long hair. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who was thrown into a lions’ den but survived because God protected him?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus said, 'I am the ______, the ______, and the ______.'",
+        "userAnswer": "Way truth life",
+        "correctAnswer": "way truth life",
+        "isCorrect": true
+      },
+      {
+        "question": "Jesus turned water into milk. (True/False)",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "Which animal talked to Balaam?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "The Lord is my ______; I shall not want.",
+        "userAnswer": "Strength",
+        "correctAnswer": "shepherd",
+        "isCorrect": false
+      },
+      {
+        "question": "Abraham had 12 sons. (True/False)",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the last book of the New Testament?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "For God so loved the world that He gave His only ______ ______.",
+        "userAnswer": "Begotten   son  who so ever that believe  in him shall not perish but have everlasting  life",
+        "correctAnswer": "begotten Son",
+        "isCorrect": false
+      },
+      {
+        "question": "Moses parted the Red Sea with a staff. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who was Jesus’ mother?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "The fruit of the Spirit includes love, joy, and ______.",
+        "userAnswer": "Peace  patience  kindness  goodness  faithfulness  gentleness self control",
+        "correctAnswer": "peace",
+        "isCorrect": false
+      },
+      {
+        "question": "Paul wrote most of the New Testament letters. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who betrayed Jesus for 30 pieces of silver?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus walked on ______ and calmed the ______.",
+        "userAnswer": "Water storm",
+        "correctAnswer": "water storm",
+        "isCorrect": true
+      },
+      {
+        "question": "The shortest verse in the Bible is 'Jesus wept.' (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Which bird brought an olive leaf to Noah’s ark?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "The Ten Commandments were written on tablets of ______.",
+        "userAnswer": "Stone",
+        "correctAnswer": "stone",
+        "isCorrect": true
+      },
+      {
+        "question": "Jesus fasted for 40 days in the wilderness. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who was the strongest man in the Bible?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "God created the sun, moon, and stars on day ______.",
+        "userAnswer": "2nd day",
+        "correctAnswer": "four",
+        "isCorrect": false
+      },
+      {
+        "question": "The Bible has 66 books in total. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 1745756276797,
+    "fullName": "Evuakpo Eseoghene",
+    "gender": "female",
+    "zone": "Immanuel Mega parish",
+    "parish": "Immanuel Mega Parish",
+    "ageGroup": "9-12",
+    "score": 50,
+    "totalQuestions": 60,
+    "percentage": 83,
+    "date": "2025-04-27T12:17:56.797Z",
+    "answers": [
+      {
+        "question": "One can be sanctified through the work of the spirit.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "God the Father is worthy.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Jesus was sold for 30 pieces of silver.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Eliezer was Abraham’s servant.",
+        "userAnswer": "false",
+        "correctAnswer": "true",
+        "isCorrect": false
+      },
+      {
+        "question": "Abraham doubted God.",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "A pure heart is free from contamination.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Queen Esther lived an excellent life.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Sin is described as a transgression of God’s law in 1 John 3:4.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Bad company is an obstacle in believing in your identity.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Failure is one of the benefits of an excellent life.",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "The following are types of mental illness except.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "One of these is a practical step to overcoming addiction.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Two are examples of obedient people in the Bible.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "The following are examples of bad manners except.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Giving is the ————.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Self-esteem is ———.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "A S.M.A.R.T. goal is one that is ———.",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "————— is not an area of kingdom service.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "God wants ———— obedience from us always.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "———— is not one of the miracles performed by Jesus.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did Jesus say would guide believers into all truth, according to John 16:13?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Romans 15:16, what is Paul's ministry for the sake of the gospel?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who sanctifies believers through the offering of Jesus' body, according to Hebrews 10:10?",
+        "userAnswer": "2",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 1 Corinthians 1:30, what has God made believers in Christ Jesus?",
+        "userAnswer": "2",
+        "correctAnswer": "3",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did Jesus say would give believers another Helper, according to John 14:16?",
+        "userAnswer": "1",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 2 Thessalonians 2:13, what did God choose believers for?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Who is the one who sanctifies believers, according to Hebrews 13:12?",
+        "userAnswer": "1",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 1 Peter 3:15, what should believers be prepared to do?",
+        "userAnswer": "0",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did Jesus say would teach believers all things, according to John 14:26?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Romans 6:19, what should believers yield their members to?",
+        "userAnswer": "2",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who built the ark to save his family and the animals from the flood?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus fed 5,000 people with just five loaves of ______ and two ______.",
+        "userAnswer": "Bread and two fishes.",
+        "correctAnswer": "bread fish",
+        "isCorrect": true
+      },
+      {
+        "question": "Jonah was swallowed by a whale. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Which woman hid two spies in Jericho?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "The first man God created was named ______, and the first woman was ______.",
+        "userAnswer": "Adam Eve",
+        "correctAnswer": "Adam Eve",
+        "isCorrect": true
+      },
+      {
+        "question": "David fought Goliath with a sling and a sword. (True/False)",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "What did God create on the first day?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus was born in the town of ______.",
+        "userAnswer": "Nazareth",
+        "correctAnswer": "Bethlehem",
+        "isCorrect": false
+      },
+      {
+        "question": "Samson’s strength was in his long hair. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who was thrown into a lions’ den but survived because God protected him?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus said, 'I am the ______, the ______, and the ______.'",
+        "userAnswer": "Way, the truth, and the life",
+        "correctAnswer": "way truth life",
+        "isCorrect": true
+      },
+      {
+        "question": "Jesus turned water into milk. (True/False)",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "Which animal talked to Balaam?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "The Lord is my ______; I shall not want.",
+        "userAnswer": "Shepherd",
+        "correctAnswer": "shepherd",
+        "isCorrect": true
+      },
+      {
+        "question": "Abraham had 12 sons. (True/False)",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the last book of the New Testament?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "For God so loved the world that He gave His only ______ ______.",
+        "userAnswer": "Begotten son",
+        "correctAnswer": "begotten Son",
+        "isCorrect": true
+      },
+      {
+        "question": "Moses parted the Red Sea with a staff. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who was Jesus’ mother?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "The fruit of the Spirit includes love, joy, and ______.",
+        "userAnswer": "Peace, patience, long suffering, meekness, kindness,gentleness, temperance",
+        "correctAnswer": "peace",
+        "isCorrect": false
+      },
+      {
+        "question": "Paul wrote most of the New Testament letters. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who betrayed Jesus for 30 pieces of silver?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus walked on ______ and calmed the ______.",
+        "userAnswer": "Water and calmed the storm",
+        "correctAnswer": "water storm",
+        "isCorrect": true
+      },
+      {
+        "question": "The shortest verse in the Bible is 'Jesus wept.' (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Which bird brought an olive leaf to Noah’s ark?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "The Ten Commandments were written on tablets of ______.",
+        "userAnswer": "God",
+        "correctAnswer": "stone",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus fasted for 40 days in the wilderness. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who was the strongest man in the Bible?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "God created the sun, moon, and stars on day ______.",
+        "userAnswer": "Third day",
+        "correctAnswer": "four",
+        "isCorrect": false
+      },
+      {
+        "question": "The Bible has 66 books in total. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 1745756444862,
+    "fullName": "Edhere Oghenekome Ebenezer ",
+    "gender": "male",
+    "zone": "Ambassadors for Christ ",
+    "parish": "Ambassadors for christ ",
+    "ageGroup": "9-12",
+    "score": 57,
+    "totalQuestions": 60,
+    "percentage": 95,
+    "date": "2025-04-27T12:20:44.862Z",
+    "answers": [
+      {
+        "question": "One can be sanctified through the work of the spirit.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "God the Father is worthy.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Jesus was sold for 30 pieces of silver.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Eliezer was Abraham’s servant.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Abraham doubted God.",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "A pure heart is free from contamination.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Queen Esther lived an excellent life.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Sin is described as a transgression of God’s law in 1 John 3:4.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Bad company is an obstacle in believing in your identity.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Failure is one of the benefits of an excellent life.",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "The following are types of mental illness except.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "One of these is a practical step to overcoming addiction.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Two are examples of obedient people in the Bible.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "The following are examples of bad manners except.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Giving is the ————.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Self-esteem is ———.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "A S.M.A.R.T. goal is one that is ———.",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "————— is not an area of kingdom service.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "God wants ———— obedience from us always.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "———— is not one of the miracles performed by Jesus.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did Jesus say would guide believers into all truth, according to John 16:13?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Romans 15:16, what is Paul's ministry for the sake of the gospel?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who sanctifies believers through the offering of Jesus' body, according to Hebrews 10:10?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 1 Corinthians 1:30, what has God made believers in Christ Jesus?",
+        "userAnswer": "1",
+        "correctAnswer": "3",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did Jesus say would give believers another Helper, according to John 14:16?",
+        "userAnswer": "2",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 2 Thessalonians 2:13, what did God choose believers for?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Who is the one who sanctifies believers, according to Hebrews 13:12?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 1 Peter 3:15, what should believers be prepared to do?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did Jesus say would teach believers all things, according to John 14:26?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Romans 6:19, what should believers yield their members to?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who built the ark to save his family and the animals from the flood?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus fed 5,000 people with just five loaves of ______ and two ______.",
+        "userAnswer": "Bread fishes",
+        "correctAnswer": "bread fish",
+        "isCorrect": false
+      },
+      {
+        "question": "Jonah was swallowed by a whale. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Which woman hid two spies in Jericho?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "The first man God created was named ______, and the first woman was ______.",
+        "userAnswer": "Adam Eve",
+        "correctAnswer": "Adam Eve",
+        "isCorrect": true
+      },
+      {
+        "question": "David fought Goliath with a sling and a sword. (True/False)",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "What did God create on the first day?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus was born in the town of ______.",
+        "userAnswer": "Bethlehem",
+        "correctAnswer": "Bethlehem",
+        "isCorrect": true
+      },
+      {
+        "question": "Samson’s strength was in his long hair. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who was thrown into a lions’ den but survived because God protected him?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus said, 'I am the ______, the ______, and the ______.'",
+        "userAnswer": "Way Truth Life",
+        "correctAnswer": "way truth life",
+        "isCorrect": true
+      },
+      {
+        "question": "Jesus turned water into milk. (True/False)",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "Which animal talked to Balaam?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "The Lord is my ______; I shall not want.",
+        "userAnswer": "Shepherd",
+        "correctAnswer": "shepherd",
+        "isCorrect": true
+      },
+      {
+        "question": "Abraham had 12 sons. (True/False)",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the last book of the New Testament?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "For God so loved the world that He gave His only ______ ______.",
+        "userAnswer": "Begotten Son",
+        "correctAnswer": "begotten Son",
+        "isCorrect": true
+      },
+      {
+        "question": "Moses parted the Red Sea with a staff. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who was Jesus’ mother?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "The fruit of the Spirit includes love, joy, and ______.",
+        "userAnswer": "Peace",
+        "correctAnswer": "peace",
+        "isCorrect": true
+      },
+      {
+        "question": "Paul wrote most of the New Testament letters. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who betrayed Jesus for 30 pieces of silver?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus walked on ______ and calmed the ______.",
+        "userAnswer": "Water Sea",
+        "correctAnswer": "water storm",
+        "isCorrect": false
+      },
+      {
+        "question": "The shortest verse in the Bible is 'Jesus wept.' (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Which bird brought an olive leaf to Noah’s ark?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "The Ten Commandments were written on tablets of ______.",
+        "userAnswer": "Stone",
+        "correctAnswer": "stone",
+        "isCorrect": true
+      },
+      {
+        "question": "Jesus fasted for 40 days in the wilderness. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who was the strongest man in the Bible?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "God created the sun, moon, and stars on day ______.",
+        "userAnswer": "Day3",
+        "correctAnswer": "four",
+        "isCorrect": false
+      },
+      {
+        "question": "The Bible has 66 books in total. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 1745756470198,
+    "fullName": "Victor Dennis Rukeme",
+    "gender": "female",
+    "zone": "Ambassador for Christ ",
+    "parish": "Ambassador for Christ ",
+    "ageGroup": "16-19",
+    "score": 21,
+    "totalQuestions": 60,
+    "percentage": 35,
+    "date": "2025-04-27T12:21:10.198Z",
+    "answers": [
+      {
+        "question": "What is the name of the island where John wrote the book of Revelation?",
+        "userAnswer": "3",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": " In which books of the Bible is the story of Jesus' birth told?",
+        "userAnswer": "3",
+        "correctAnswer": "3",
+        "isCorrect": false
+      },
+      {
+        "question": "Gehazi was the servant of _________",
+        "userAnswer": "0",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "________ was chosen to take the place of Judas Iscariot",
+        "userAnswer": "1",
+        "correctAnswer": "3",
+        "isCorrect": false
+      },
+      {
+        "question": "Peter healed a ______ man at the beautiful gate",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "How many human couples entered Noah's ark?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Joseph from _______ requested for the body of Christ to be buried.",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Blessed are the _____ for they shall inherit the earth",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who resurrected a young man called Eutychus?",
+        "userAnswer": "1",
+        "correctAnswer": "3",
+        "isCorrect": false
+      },
+      {
+        "question": "_______ is the father of Samuel",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Who was the wise woman who stopped David from destroying Nabal, her husband, and her house?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "\"For the wages of sin is death, but the Gift of God is eternal life in Christ Jesus our lord\" is found in which of these bible verse?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "The following are physical difference between male and female except _______",
+        "userAnswer": "1",
+        "correctAnswer": "3",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the bible text and topic for lesson 17",
+        "userAnswer": "Career choice",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "Recite the memory verse for lesson 9",
+        "userAnswer": "Ephesians 2:1 for we are his workmanship.created in Christ jesus.which has ordained that we should work in them",
+        "correctAnswer": "",
+        "isCorrect": false
+      },
+      {
+        "question": "\"Faith is the substance of things hoped for and the evidence of things not seen.\" Which of these bible verse best described these word?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "What was the name of the city founded by Cain after he left God's presence?",
+        "userAnswer": "1",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "What is lesson one topic and state and recite the memory verse",
+        "userAnswer": "Home training: manner and Etiquette",
+        "correctAnswer": "",
+        "isCorrect": false
+      },
+      {
+        "question": "Which original languages was the Bible written in?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "______ teaches us that the life of Christ can lived in and through us?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 2 Timothy 3:16, all Scripture is:",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did the word of God Came to in the day of Josiah the son of Amon king of Judah.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "The word \"Before i found thee in the belly, i knew thee\" is gotten from which verse?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "We are regarded as the workmanship created in _________",
+        "userAnswer": "3",
+        "correctAnswer": "3",
+        "isCorrect": false
+      },
+      {
+        "question": "_______ is a man travelling into a far country?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Money answers all things.",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "How can you have the mind of christ",
+        "userAnswer": "By studying God word .by examine your word to keep a clean heart.monitoring your thoughts.",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "The PURE HEART (MIND OF CHRIST) is what lesson topic",
+        "userAnswer": "Lesson 14",
+        "correctAnswer": "Lesson 14",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the momory verse for lesson 9 and RECITE",
+        "userAnswer": null,
+        "correctAnswer": "",
+        "isCorrect": false
+      },
+      {
+        "question": "What you don't use you will loss. is seen in which of these bible verse?",
+        "userAnswer": null,
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the lesson topic for LESSON 2, LESSON 3, LESSON 4 AND LESSON 5 (LIST THEM)",
+        "userAnswer": null,
+        "correctAnswer": "Sanctification, The Sanctifier: God, The Sanctifier: Jesus, The Sanctifier: Holyspirit",
+        "isCorrect": false
+      },
+      {
+        "question": "The following verses writes out the blessings of obedience except",
+        "userAnswer": null,
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "_______ lived purposefully by seeking God's guidance and leading his people.",
+        "userAnswer": null,
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "That he might sanctify and cleanse it with the washing of water by the word can be seen _________",
+        "userAnswer": null,
+        "correctAnswer": "3",
+        "isCorrect": false
+      },
+      {
+        "question": "________ Lead the Israelites out Egypt?",
+        "userAnswer": null,
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "We should have total dependence on the holy spirit according to which verse?",
+        "userAnswer": null,
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "How many servant were given talent?",
+        "userAnswer": null,
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "The following bible verses talked about money except",
+        "userAnswer": null,
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "_______ can prevent us form achieving our goals?",
+        "userAnswer": null,
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the topic and memory verse for lesson 17 (RECITE)",
+        "userAnswer": null,
+        "correctAnswer": "",
+        "isCorrect": false
+      },
+      {
+        "question": "What is home training according to lesson 18",
+        "userAnswer": null,
+        "correctAnswer": "",
+        "isCorrect": false
+      },
+      {
+        "question": "______ describes Jesus obedience even unto death on the cross",
+        "userAnswer": null,
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the topic for LESSON 20 AND LESSON 24",
+        "userAnswer": null,
+        "correctAnswer": "Sin, Forgiveness",
+        "isCorrect": false
+      },
+      {
+        "question": "_______ Is a typical example of ultimate obedience.",
+        "userAnswer": null,
+        "correctAnswer": "3",
+        "isCorrect": false
+      },
+      {
+        "question": "The Bible provides guidelines for righteous living.",
+        "userAnswer": null,
+        "correctAnswer": "true",
+        "isCorrect": false
+      },
+      {
+        "question": "Galatians 2:20 speaks about the crucifying and allowing Christ to live through believers.",
+        "userAnswer": null,
+        "correctAnswer": "true",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the memory verse and topic for lesson 27 (RECITE)",
+        "userAnswer": null,
+        "correctAnswer": "",
+        "isCorrect": false
+      },
+      {
+        "question": "In the Old Testament, which prophet was told to marry a prostitute as a symbolic act?",
+        "userAnswer": null,
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Which New Testament book warns about the 'heresy of the Nicolaitans'?",
+        "userAnswer": null,
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "What strange ingredient did Elisha use to purify poisoned stew?",
+        "userAnswer": null,
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Which judge of Israel killed 600 Philistines with an ox goad?",
+        "userAnswer": null,
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "In Romans 7, Paul compares the Law to what binding relationship?",
+        "userAnswer": null,
+        "correctAnswer": "3",
+        "isCorrect": false
+      },
+      {
+        "question": "Which king of Judah was struck with leprosy for unlawfully offering incense?",
+        "userAnswer": null,
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "In Genesis 3:15, God says the offspring of the woman will crush the serpent's ______, and the serpent will strike his ______.",
+        "userAnswer": null,
+        "correctAnswer": "head heel",
+        "isCorrect": false
+      },
+      {
+        "question": "Which disciple was a Zealot before following Jesus?",
+        "userAnswer": null,
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus told Peter, 'Before the ______ crows, you will deny me ______ times.'",
+        "userAnswer": null,
+        "correctAnswer": "rooster three",
+        "isCorrect": false
+      },
+      {
+        "question": "Which New Testament letter quotes Greek poets and philosophers?",
+        "userAnswer": null,
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the topic for lesson 29 and Recite the memory verse also",
+        "userAnswer": null,
+        "correctAnswer": "",
+        "isCorrect": false
+      },
+      {
+        "question": "What passage in the bible is this word found in and what is the lesson topic: ' For if ye forgive men their trespasses, your heavenly father will also forgive you'",
+        "userAnswer": null,
+        "correctAnswer": "Matthew 6:14 Forgiveness",
+        "isCorrect": false
+      },
+      {
+        "question": "What bizarre sign did Isaiah give to King Ahaz in Isaiah 7:14?",
+        "userAnswer": null,
+        "correctAnswer": "0",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 1745756773593,
+    "fullName": "Edhere Elo",
+    "gender": "female",
+    "zone": "Ambassador for Christ ",
+    "parish": "Ambassador for Christ ",
+    "ageGroup": "13-15",
+    "score": 41,
+    "totalQuestions": 60,
+    "percentage": 68,
+    "date": "2025-04-27T12:26:13.593Z",
+    "answers": [
+      {
+        "question": "What is the memory verse for lesson 9? recite.",
+        "userAnswer": "Jeremiah 29 1:1 For l know the thought I think towards you says the lord thoughts of peace and not of evil to give you an expected end",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "According to lesson 8, What is vision? define according to the manual.",
+        "userAnswer": "Vision is seeing the end from the beginning",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the topic and the bible passage for lesson 7?",
+        "userAnswer": "The Word of God John 17:16-19,John 1:1, Psalms 119:11",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "According to lesson 7, state 3 ways to apply the word of God to our lives.",
+        "userAnswer": "Studying the Bible, Evangelism, Meditating on the word of God",
+        "correctAnswer": "Read it, Study it, Meditate on it, Share it with others",
+        "isCorrect": true
+      },
+      {
+        "question": "According to lesson 10, what is goal setting?",
+        "userAnswer": "Goal setting is bring to reality your dreams by seeking actionable plans",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "In Lesson 10, SMART is an acronym for goal setting. Say the full meaning.",
+        "userAnswer": "S-specific, M-measurable, A-achievable, R-relevant,T-timebound",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "What is purposeful living? according to lesson 9.",
+        "userAnswer": "Purposeful living is living with a clear sense of where you are there and what you are meant to do",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "Give four examples of people who lived purposefully according to our manual.",
+        "userAnswer": "Esther, David, Noah",
+        "correctAnswer": "",
+        "isCorrect": false
+      },
+      {
+        "question": "Who is the Holy spirit?",
+        "userAnswer": "The comforter",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "Recite the memory verse for lesson 4 (2Cor 3:18)",
+        "userAnswer": "",
+        "correctAnswer": "",
+        "isCorrect": false
+      },
+      {
+        "question": "Who is Jesus to believers?",
+        "userAnswer": "The purifier and redeemer",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "What is sanctification?",
+        "userAnswer": "God's gracious work",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the memory verse for lesson 2? recite",
+        "userAnswer": "2 Timothy 2:21 if a man therefore purges himself from this he shell be a vessel unto honor",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the topic for lesson 2? and the bible passage.",
+        "userAnswer": "Sanctification Leviticus 20:7-8",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "What is salvation?",
+        "userAnswer": "A free gift of God",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "What are the steps or progress of salvation?",
+        "userAnswer": "Hearing , receiving and accepting the gospel",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the memory verse for lesson 3? recite.",
+        "userAnswer": null,
+        "correctAnswer": "Ezek 12:7,8",
+        "isCorrect": false
+      },
+      {
+        "question": "What or who are we to obey? mention 3 according to the manual",
+        "userAnswer": "Parents,God, Teacher",
+        "correctAnswer": "God, Authority, our Parents",
+        "isCorrect": true
+      },
+      {
+        "question": "What is addiction?",
+        "userAnswer": "Something you cannot refrain from",
+        "correctAnswer": "Addiction is the condition of being unable to refrain from or halt in dependence on something, which has temporary gratification and eventually results into bondage.",
+        "isCorrect": true
+      },
+      {
+        "question": "How to recite the memory verse for lesson 27.",
+        "userAnswer": null,
+        "correctAnswer": "Isaiah 59:2",
+        "isCorrect": false
+      },
+      {
+        "question": "The topic forgiveness is from what lesson?",
+        "userAnswer": "Lesson 27",
+        "correctAnswer": "",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the topic for lesson 22?",
+        "userAnswer": "Mental health",
+        "correctAnswer": "Mental health",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the topic for lesson 29?",
+        "userAnswer": "Self esteem",
+        "correctAnswer": "Self-esteem/Dealing with addiction",
+        "isCorrect": false
+      },
+      {
+        "question": "Mention 3 ways to develop and improve self-esteem.",
+        "userAnswer": "Self acceptance,see yourself as God sees yo ,set realistic goal",
+        "correctAnswer": "See yourself as God sees you, Positive thinking, Self-acceptance, Set realistic & bible goals, Have good positive social network, Challenge unhelpful opinions and self-critical ideas",
+        "isCorrect": true
+      },
+      {
+        "question": "What is selfless service?",
+        "userAnswer": "Dedication and commitment to a particular thing",
+        "correctAnswer": "Selfless service can be called dedication and commitment to something without expecting anything in return.",
+        "isCorrect": true
+      },
+      {
+        "question": "For ye are bought with a price, therefore glorify God in your body, and in your spirit which are God's 1Cor 6:20. The memory verse is for what lesson and what is the topic?",
+        "userAnswer": "Sexual purity",
+        "correctAnswer": "Sexual purity",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the topic for lesson 22?",
+        "userAnswer": "Mental health",
+        "correctAnswer": "Mental health",
+        "isCorrect": true
+      },
+      {
+        "question": "Recite the memory verse. Who are you according to lesson 21?",
+        "userAnswer": null,
+        "correctAnswer": "You are created in the image of God. A priest. A chosen Generation...",
+        "isCorrect": false
+      },
+      {
+        "question": "Recite the memory verse for lesson 20. Sin",
+        "userAnswer": "Isaiah 59:",
+        "correctAnswer": "",
+        "isCorrect": false
+      },
+      {
+        "question": "What is sin?",
+        "userAnswer": "Something That separates you from God",
+        "correctAnswer": "Sin is anything that harms the relationship we have with God and for another person.",
+        "isCorrect": true
+      },
+      {
+        "question": "What are the consequences of sin?",
+        "userAnswer": "Death",
+        "correctAnswer": "Death, Separation from God, displeasing God, destruction...",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the topic for lesson 18?",
+        "userAnswer": null,
+        "correctAnswer": "Home Training",
+        "isCorrect": false
+      },
+      {
+        "question": "Mention 4 steps in making a career choice.",
+        "userAnswer": "Pray, read your bible",
+        "correctAnswer": "Seek the face of God, Know yourself (talents, skills), Seek guidance of counselling, Get knowledge and make research, Create solutions, make plans and goals, Assess your interests, skills, values, Take action and try options, Talk to people in those fields of study you are choosing.",
+        "isCorrect": true
+      },
+      {
+        "question": "What is a career?",
+        "userAnswer": null,
+        "correctAnswer": "Career simply means one's calling in life or a person's profession or occupation.",
+        "isCorrect": false
+      },
+      {
+        "question": "There are four types of career paths. Name them.",
+        "userAnswer": null,
+        "correctAnswer": "Knowledge-based, Skill-based, Entrepreneur-based, Free lance",
+        "isCorrect": false
+      },
+      {
+        "question": "Recite the memory verse for lesson 16 Excellence in life",
+        "userAnswer": null,
+        "correctAnswer": "Daniel 1:19-20",
+        "isCorrect": false
+      },
+      {
+        "question": "Choose which is not correct in the options. Why should we be excellent?",
+        "userAnswer": "3",
+        "correctAnswer": "3",
+        "isCorrect": false
+      },
+      {
+        "question": "Choose the correct verse for this memory verse: 'And whatsoever ye do, do it heartily as to the Lord, and not unto men.'",
+        "userAnswer": null,
+        "correctAnswer": "",
+        "isCorrect": false
+      },
+      {
+        "question": "Which of these is correct of the topic for lesson 14?",
+        "userAnswer": null,
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "According to lesson 11 Recite the memory verse says it is impossible to please God complete it.",
+        "userAnswer": null,
+        "correctAnswer": "Heb. 11:6",
+        "isCorrect": false
+      },
+      {
+        "question": "Be happy always is one of ways to maintain good success.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "For ye are bought with a price. Therefore glorify God in your body, and in your spirit which are God's. 1Cor 6:20 This memory verse is for which topic?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Avoid destroying church property e.g. books, chairs, mishandling equipment is part of the way you can help __________",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the topic for lesson 24?",
+        "userAnswer": "Selfless Service",
+        "correctAnswer": "Selfless Service",
+        "isCorrect": true
+      },
+      {
+        "question": "What is the memory verse for lesson 34?",
+        "userAnswer": "Prayer",
+        "correctAnswer": "Lk 18:1",
+        "isCorrect": false
+      },
+      {
+        "question": "State two roles of the Holy Spirit in sanctification",
+        "userAnswer": "Convicts and trnss",
+        "correctAnswer": "He makes us obedient, Reproves (convict) us of our sins, Lead us where we need to go, Fill us with power",
+        "isCorrect": false
+      },
+      {
+        "question": "Complete this with the right word: Where there is no vision, the people _____",
+        "userAnswer": "Perish",
+        "correctAnswer": "Perish",
+        "isCorrect": true
+      },
+      {
+        "question": "Mention 2 ways we can apply the word of God to our lives.",
+        "userAnswer": null,
+        "correctAnswer": "Read it, Study it, Meditate on it, Share it with others",
+        "isCorrect": false
+      },
+      {
+        "question": "Complete this: Faith cometh by ______",
+        "userAnswer": "Hearing",
+        "correctAnswer": "hearing",
+        "isCorrect": true
+      },
+      {
+        "question": "Obedience is lesson ______",
+        "userAnswer": "Lessons 30",
+        "correctAnswer": "Lesson 30",
+        "isCorrect": true
+      },
+      {
+        "question": "David was the youngest son of Jesse.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Jesus turned water into milk at the wedding in Cana.",
+        "userAnswer": "true",
+        "correctAnswer": "false",
+        "isCorrect": false
+      },
+      {
+        "question": "The book of Acts describes the early church after Jesus' ascension.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Jonah spent 2 days inside the great fish.",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "The Golden Rule is 'Do to others what you want them to do to you.'",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who denied Jesus three times before the rooster crowed?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Which book comes right before Psalms in the Bible?",
+        "userAnswer": "1",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "What was Paul's original name before his conversion?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "How many days was Lazarus dead before Jesus raised him?",
+        "userAnswer": "3",
+        "correctAnswer": "3",
+        "isCorrect": false
+      },
+      {
+        "question": "Which of these is NOT one of the Ten Commandments?",
+        "userAnswer": "3",
+        "correctAnswer": "3",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 1745757339029,
+    "fullName": "Evuakpo Oghenefega",
+    "gender": "female",
+    "zone": "IMP ",
+    "parish": "IMP ",
+    "ageGroup": "9-12",
+    "score": 38,
+    "totalQuestions": 60,
+    "percentage": 63,
+    "date": "2025-04-27T12:35:39.029Z",
+    "answers": [
+      {
+        "question": "One can be sanctified through the work of the spirit.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "God the Father is worthy.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Jesus was sold for 30 pieces of silver.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Eliezer was Abraham’s servant.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Abraham doubted God.",
+        "userAnswer": "true",
+        "correctAnswer": "false",
+        "isCorrect": false
+      },
+      {
+        "question": "A pure heart is free from contamination.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Queen Esther lived an excellent life.",
+        "userAnswer": "false",
+        "correctAnswer": "true",
+        "isCorrect": false
+      },
+      {
+        "question": "Sin is described as a transgression of God’s law in 1 John 3:4.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Bad company is an obstacle in believing in your identity.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Failure is one of the benefits of an excellent life.",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "The following are types of mental illness except.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "One of these is a practical step to overcoming addiction.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Two are examples of obedient people in the Bible.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "The following are examples of bad manners except.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Giving is the ————.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Self-esteem is ———.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "A S.M.A.R.T. goal is one that is ———.",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "————— is not an area of kingdom service.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "God wants ———— obedience from us always.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "———— is not one of the miracles performed by Jesus.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did Jesus say would guide believers into all truth, according to John 16:13?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Romans 15:16, what is Paul's ministry for the sake of the gospel?",
+        "userAnswer": "2",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who sanctifies believers through the offering of Jesus' body, according to Hebrews 10:10?",
+        "userAnswer": "2",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 1 Corinthians 1:30, what has God made believers in Christ Jesus?",
+        "userAnswer": "1",
+        "correctAnswer": "3",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did Jesus say would give believers another Helper, according to John 14:16?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 2 Thessalonians 2:13, what did God choose believers for?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Who is the one who sanctifies believers, according to Hebrews 13:12?",
+        "userAnswer": "2",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 1 Peter 3:15, what should believers be prepared to do?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did Jesus say would teach believers all things, according to John 14:26?",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Romans 6:19, what should believers yield their members to?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who built the ark to save his family and the animals from the flood?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus fed 5,000 people with just five loaves of ______ and two ______.",
+        "userAnswer": "Bread, Fishes",
+        "correctAnswer": "bread fish",
+        "isCorrect": true
+      },
+      {
+        "question": "Jonah was swallowed by a whale. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Which woman hid two spies in Jericho?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "The first man God created was named ______, and the first woman was ______.",
+        "userAnswer": "Adam and Eve",
+        "correctAnswer": "Adam Eve",
+        "isCorrect": true
+      },
+      {
+        "question": "David fought Goliath with a sling and a sword. (True/False)",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "What did God create on the first day?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus was born in the town of ______.",
+        "userAnswer": "Bethlehem",
+        "correctAnswer": "Bethlehem",
+        "isCorrect": true
+      },
+      {
+        "question": "Samson’s strength was in his long hair. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who was thrown into a lions’ den but survived because God protected him?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus said, 'I am the ______, the ______, and the ______.'",
+        "userAnswer": "Way, Truth, Life",
+        "correctAnswer": "way truth life",
+        "isCorrect": true
+      },
+      {
+        "question": "Jesus turned water into milk. (True/False)",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "Which animal talked to Balaam?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "The Lord is my ______; I shall not want.",
+        "userAnswer": "Shepherd",
+        "correctAnswer": "shepherd",
+        "isCorrect": true
+      },
+      {
+        "question": "Abraham had 12 sons. (True/False)",
+        "userAnswer": null,
+        "correctAnswer": "false",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the last book of the New Testament?",
+        "userAnswer": null,
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "For God so loved the world that He gave His only ______ ______.",
+        "userAnswer": null,
+        "correctAnswer": "begotten Son",
+        "isCorrect": false
+      },
+      {
+        "question": "Moses parted the Red Sea with a staff. (True/False)",
+        "userAnswer": null,
+        "correctAnswer": "true",
+        "isCorrect": false
+      },
+      {
+        "question": "Who was Jesus’ mother?",
+        "userAnswer": null,
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "The fruit of the Spirit includes love, joy, and ______.",
+        "userAnswer": null,
+        "correctAnswer": "peace",
+        "isCorrect": false
+      },
+      {
+        "question": "Paul wrote most of the New Testament letters. (True/False)",
+        "userAnswer": null,
+        "correctAnswer": "true",
+        "isCorrect": false
+      },
+      {
+        "question": "Who betrayed Jesus for 30 pieces of silver?",
+        "userAnswer": null,
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus walked on ______ and calmed the ______.",
+        "userAnswer": null,
+        "correctAnswer": "water storm",
+        "isCorrect": false
+      },
+      {
+        "question": "The shortest verse in the Bible is 'Jesus wept.' (True/False)",
+        "userAnswer": null,
+        "correctAnswer": "true",
+        "isCorrect": false
+      },
+      {
+        "question": "Which bird brought an olive leaf to Noah’s ark?",
+        "userAnswer": null,
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "The Ten Commandments were written on tablets of ______.",
+        "userAnswer": null,
+        "correctAnswer": "stone",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus fasted for 40 days in the wilderness. (True/False)",
+        "userAnswer": null,
+        "correctAnswer": "true",
+        "isCorrect": false
+      },
+      {
+        "question": "Who was the strongest man in the Bible?",
+        "userAnswer": null,
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "God created the sun, moon, and stars on day ______.",
+        "userAnswer": null,
+        "correctAnswer": "four",
+        "isCorrect": false
+      },
+      {
+        "question": "The Bible has 66 books in total. (True/False)",
+        "userAnswer": null,
+        "correctAnswer": "true",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 1745759278030,
+    "fullName": "Kaneye timeyin  ",
+    "gender": "male",
+    "zone": "Sure mercies of david",
+    "parish": "Sure of mercies of David ",
+    "ageGroup": "9-12",
+    "score": 45,
+    "totalQuestions": 60,
+    "percentage": 75,
+    "date": "2025-04-27T13:07:58.030Z",
+    "answers": [
+      {
+        "question": "One can be sanctified through the work of the spirit.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "God the Father is worthy.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Jesus was sold for 30 pieces of silver.",
+        "userAnswer": "false",
+        "correctAnswer": "true",
+        "isCorrect": false
+      },
+      {
+        "question": "Eliezer was Abraham’s servant.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Abraham doubted God.",
+        "userAnswer": "true",
+        "correctAnswer": "false",
+        "isCorrect": false
+      },
+      {
+        "question": "A pure heart is free from contamination.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Queen Esther lived an excellent life.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Sin is described as a transgression of God’s law in 1 John 3:4.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Bad company is an obstacle in believing in your identity.",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Failure is one of the benefits of an excellent life.",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "The following are types of mental illness except.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "One of these is a practical step to overcoming addiction.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Two are examples of obedient people in the Bible.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "The following are examples of bad manners except.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Giving is the ————.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Self-esteem is ———.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "A S.M.A.R.T. goal is one that is ———.",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "————— is not an area of kingdom service.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "God wants ———— obedience from us always.",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "———— is not one of the miracles performed by Jesus.",
+        "userAnswer": "2",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did Jesus say would guide believers into all truth, according to John 16:13?",
+        "userAnswer": "0",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Romans 15:16, what is Paul's ministry for the sake of the gospel?",
+        "userAnswer": "2",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who sanctifies believers through the offering of Jesus' body, according to Hebrews 10:10?",
+        "userAnswer": "1",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 1 Corinthians 1:30, what has God made believers in Christ Jesus?",
+        "userAnswer": "2",
+        "correctAnswer": "3",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did Jesus say would give believers another Helper, according to John 14:16?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 2 Thessalonians 2:13, what did God choose believers for?",
+        "userAnswer": "0",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "Who is the one who sanctifies believers, according to Hebrews 13:12?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "According to 1 Peter 3:15, what should believers be prepared to do?",
+        "userAnswer": "0",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who did Jesus say would teach believers all things, according to John 14:26?",
+        "userAnswer": "3",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "According to Romans 6:19, what should believers yield their members to?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "Who built the ark to save his family and the animals from the flood?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus fed 5,000 people with just five loaves of ______ and two ______.",
+        "userAnswer": "Bread fishes",
+        "correctAnswer": "bread fish",
+        "isCorrect": true
+      },
+      {
+        "question": "Jonah was swallowed by a whale. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Which woman hid two spies in Jericho?",
+        "userAnswer": "2",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "The first man God created was named ______, and the first woman was ______.",
+        "userAnswer": "Adam Eve",
+        "correctAnswer": "Adam Eve",
+        "isCorrect": true
+      },
+      {
+        "question": "David fought Goliath with a sling and a sword. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "false",
+        "isCorrect": false
+      },
+      {
+        "question": "What did God create on the first day?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus was born in the town of ______.",
+        "userAnswer": "Bethlehem",
+        "correctAnswer": "Bethlehem",
+        "isCorrect": true
+      },
+      {
+        "question": "Samson’s strength was in his long hair. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who was thrown into a lions’ den but survived because God protected him?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus said, 'I am the ______, the ______, and the ______.'",
+        "userAnswer": "Way Truth life",
+        "correctAnswer": "way truth life",
+        "isCorrect": true
+      },
+      {
+        "question": "Jesus turned water into milk. (True/False)",
+        "userAnswer": "false",
+        "correctAnswer": "false",
+        "isCorrect": true
+      },
+      {
+        "question": "Which animal talked to Balaam?",
+        "userAnswer": "2",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "The Lord is my ______; I shall not want.",
+        "userAnswer": "Shepherd",
+        "correctAnswer": "shepherd",
+        "isCorrect": true
+      },
+      {
+        "question": "Abraham had 12 sons. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "false",
+        "isCorrect": false
+      },
+      {
+        "question": "What is the last book of the New Testament?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "For God so loved the world that He gave His only ______ ______.",
+        "userAnswer": "Begotten son",
+        "correctAnswer": "begotten Son",
+        "isCorrect": true
+      },
+      {
+        "question": "Moses parted the Red Sea with a staff. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who was Jesus’ mother?",
+        "userAnswer": "1",
+        "correctAnswer": "1",
+        "isCorrect": false
+      },
+      {
+        "question": "The fruit of the Spirit includes love, joy, and ______.",
+        "userAnswer": "Peace",
+        "correctAnswer": "peace",
+        "isCorrect": true
+      },
+      {
+        "question": "Paul wrote most of the New Testament letters. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who betrayed Jesus for 30 pieces of silver?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus walked on ______ and calmed the ______.",
+        "userAnswer": "Water ocean",
+        "correctAnswer": "water storm",
+        "isCorrect": true
+      },
+      {
+        "question": "The shortest verse in the Bible is 'Jesus wept.' (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Which bird brought an olive leaf to Noah’s ark?",
+        "userAnswer": "1",
+        "correctAnswer": "2",
+        "isCorrect": false
+      },
+      {
+        "question": "The Ten Commandments were written on tablets of ______.",
+        "userAnswer": "Table",
+        "correctAnswer": "stone",
+        "isCorrect": false
+      },
+      {
+        "question": "Jesus fasted for 40 days in the wilderness. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      },
+      {
+        "question": "Who was the strongest man in the Bible?",
+        "userAnswer": "0",
+        "correctAnswer": "0",
+        "isCorrect": false
+      },
+      {
+        "question": "God created the sun, moon, and stars on day ______.",
+        "userAnswer": "4day",
+        "correctAnswer": "four",
+        "isCorrect": true
+      },
+      {
+        "question": "The Bible has 66 books in total. (True/False)",
+        "userAnswer": "true",
+        "correctAnswer": "true",
+        "isCorrect": true
+      }
+    ]
+  }
+]
